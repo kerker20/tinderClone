@@ -1,0 +1,30 @@
+ .header{
+     margin-top: 5px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     z-index: 100;
+     border-bottom: 1px solid white;
+ }
+ .header .MuiIconButton-root{
+    outline: none;
+}
+ 
+ 
+ .header_logo{
+     object-fit: contain;
+     height: 40px;
+ }
+
+ .header_icon{
+     padding: 20px;
+ }
+ .swipeButtons_person{
+    padding: 2vw !important;
+    color: #aaaaaa !important;
+ }
+ .swipeButtons_forum{
+    padding: 2vw !important;
+    color: #aaaaaa !important;
+ }
+
